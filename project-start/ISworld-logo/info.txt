@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Montserrat-ExtraBold
+font link: https://fonts.google.com/specimen/Montserrat
+font author: Julieta Ulanovsky
+font author site: http://www.zkysky.com.ar/
+
+
+icon designer: Nicholas Menghini
+icon designer link: /nl_menghini
+        
+{"bg":"#F3F0EC","icon-gradient-0":"#67635D","icon-gradient-1":"#FFD6AD","font":"#3A332B","slogan":"#4e473f"}
+      
